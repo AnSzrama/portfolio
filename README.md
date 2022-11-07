@@ -1,7 +1,7 @@
 # Portfolio
 My Tester's Portfolio
 # About Me
-My name is Anna Szrama. I'm master of science in Commodity science. I have previous experience in IT as: 
+My name is Anna Szrama. I'm master of engineering in Commodity science. I have previous experience in IT as: 
 * IT support, 
 * owner of my own e-commenrce platform (SaaS model), 
 * also I've been working in a softawre house. 
