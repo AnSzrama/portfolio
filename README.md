@@ -23,8 +23,10 @@ This experience allowed me to understand that I'm proffesionalist who pay attent
 * TestLink
 # Courses
 * 02.2022 - Software testing in practice - organized by Udemy Inc. 
+
 Learning the theory of testing, creating test cases, reporting errors. Getting to know the basic tools necessary for the work of the Tester (Jira, TestLink, Chrome Devtools Browserstack Postman)
 * 05.2022 -Scrum Master - organized by SII. 
+
 The training allowed me to master the knowledge of Agile and Scrum methods in practice and prepare to pass the PSM I exam.
  Passing exam: in progress: till today I had 1 trial with the result of 78.8%
  # Books
