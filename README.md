@@ -35,7 +35,7 @@ The training allowed me to master the knowledge of Agile and Scrum methods in pr
  # Recomended blogs/Follower of
  * https://www.wyszkolewas.com.pl/blog/
  * https://github.com/FilipPaluch
- * Quality Assurance Instruktor Rafał Podraza (https://www.linkedin.com/in/rafalpodraza/)
+ * Quality Assurance Instruktor Rafał Podraza (https://www.youtube.com/c/TechnikaProgramowania https://www.linkedin.com/in/rafalpodraza/)
  * remigiuszbednarczyk.pl
  * Mamo pracuj w IT
  * Testowanie oprogramowania (group developed by P.Wicherski)
