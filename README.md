@@ -42,3 +42,5 @@ The training allowed me to master the knowledge of Agile and Scrum methods in pr
  * Mariusz Kapusta - Zarządzanie projektami (https://www.youtube.com/c/Zarz%C4%85dzanieProjektamiMariuszKapusta?app=desktop)
  * Zawód Tester (https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw)
  * Dare IT Community
+# Reported bugs
+This part is in progress
